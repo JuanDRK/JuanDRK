@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔️ I'm currently studying 💻<br>✔️ I'm very self taught 🤓
+✔️ I'm currently studying 💻<br>✔️ I'm very self taught 🤓<br>✔️ I do computer maintenance 👨‍💻
 
 
 ## 🌐 Socials:
