@@ -125,8 +125,6 @@ La solución está compuesta por una aplicación web, una API REST, una base de 
 - Recepción y entrega de mercancía desde dispositivos móviles.
 - Despliegue automático desde GitHub.
 
-[Ver aplicación](https://king-prawn-app-73ouo.ondigitalocean.app) · [Ver documentación de la API](https://king-prawn-app-73ouo.ondigitalocean.app/api/docs)
-
 ---
 
 ### Desarrollo Créditos
