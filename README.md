@@ -6,7 +6,7 @@
 
 Desarrollo de aplicaciones web, APIs REST, plataformas empresariales y aplicaciones móviles.
 
-[GitHub](https://github.com/JuanDRK) · [Proyecto en producción](https://king-prawn-app-73ouo.ondigitalocean.app)
+[GitHub](https://github.com/JuanDRK)
 
 </div>
 
