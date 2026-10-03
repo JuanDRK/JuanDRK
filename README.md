@@ -1,11 +1,73 @@
-# 💫 About Me:
-✔️ I'm currently studying 💻<br>✔️ I'm very self taught 🤓<br>✔️ I do computer maintenance 👨‍💻
+# Hola, soy Juan 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JuanDRK&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JuanDRK&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDRK&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Desarrollador autodidacta | Estudiante de tecnología | Soporte técnico
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Me apasiona aprender nuevas tecnologías, desarrollar soluciones y comprender cómo funcionan los sistemas. Actualmente continúo fortaleciendo mis conocimientos mediante proyectos prácticos y estudio constante.
+
+- 🎓 Actualmente estoy estudiando y ampliando mis habilidades.
+- 💻 Aprendo de forma autodidacta.
+- 🔧 Realizo mantenimiento y soporte técnico de computadoras.
+- 🎮 Me interesa el desarrollo de videojuegos con Unity.
+- 📱 También exploro el desarrollo de aplicaciones Android.
+- 🚀 Mi objetivo es convertir ideas en proyectos funcionales.
+
+## Tecnologías y herramientas
+
+### Lenguajes
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### Desarrollo web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Plataformas y bases de datos
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Diseño
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
+![Prezi](https://img.shields.io/badge/Prezi-000000?style=for-the-badge&logo=prezi&logoColor=white)
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDRK&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub de JuanDRK" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDRK&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más utilizados por JuanDRK" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDRK&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones de JuanDRK" />
+
+</div>
+
+## Objetivos actuales
+
+- Crear proyectos para fortalecer mi portafolio.
+- Mejorar mis conocimientos de programación.
+- Aprender buenas prácticas de desarrollo.
+- Colaborar en proyectos de código abierto.
+
+---
+
+<div align="center">
+
+### Gracias por visitar mi perfil
+
+Siempre estoy aprendiendo y construyendo algo nuevo.
+
+</div>
