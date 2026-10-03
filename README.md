@@ -1,19 +1,23 @@
-# Hola, soy Juan 👋
+# Hola, soy Juan David
 
-### Desarrollador autodidacta | Estudiante de tecnología | Soporte técnico
+### Desarrollador de software | Técnico en mantenimiento de equipos
 
-Me apasiona aprender nuevas tecnologías, desarrollar soluciones y comprender cómo funcionan los sistemas. Actualmente continúo fortaleciendo mis conocimientos mediante proyectos prácticos y estudio constante.
+Soy titulado en desarrollo de software y cuento con conocimientos en programación, desarrollo web, aplicaciones móviles, bases de datos y mantenimiento de equipos de cómputo.
 
-- 🎓 Actualmente estoy estudiando y ampliando mis habilidades.
-- 💻 Aprendo de forma autodidacta.
-- 🔧 Realizo mantenimiento y soporte técnico de computadoras.
-- 🎮 Me interesa el desarrollo de videojuegos con Unity.
-- 📱 También exploro el desarrollo de aplicaciones Android.
-- 🚀 Mi objetivo es convertir ideas en proyectos funcionales.
+Me interesa crear soluciones funcionales, mejorar mis habilidades técnicas y participar en proyectos que me permitan adquirir experiencia profesional.
+
+## Sobre mí
+
+- Titulado en desarrollo de software.
+- Desarrollador autodidacta y en aprendizaje continuo.
+- Experiencia con desarrollo web, aplicaciones Android y Unity.
+- Conocimientos en bases de datos relacionales.
+- Mantenimiento preventivo y correctivo de equipos de cómputo.
+- Interés en buenas prácticas, arquitectura de software y resolución de problemas.
 
 ## Tecnologías y herramientas
 
-### Lenguajes
+### Lenguajes de programación
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -30,10 +34,13 @@ Me apasiona aprender nuevas tecnologías, desarrollar soluciones y comprender c�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Plataformas y bases de datos
+### Desarrollo móvil y videojuegos
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### Bases de datos
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Diseño
@@ -43,31 +50,71 @@ Me apasiona aprender nuevas tecnologías, desarrollar soluciones y comprender c�
 ![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
 ![Prezi](https://img.shields.io/badge/Prezi-000000?style=for-the-badge&logo=prezi&logoColor=white)
 
+## Proyectos destacados
+
+La mayoría de mis proyectos se encuentran en repositorios privados. A continuación presento algunos de los trabajos en los que he participado o que he desarrollado.
+
+### Nombre del proyecto
+
+Descripción breve del proyecto, el problema que resuelve y sus funcionalidades principales.
+
+**Tecnologías:** C#, PostgreSQL y Bootstrap  
+**Estado:** Finalizado  
+**Código fuente:** Repositorio privado
+
+<!-- Agrega aquí un enlace a capturas, demostración o documentación -->
+<!-- [Ver demostración](ENLACE_DEL_PROYECTO) -->
+
+### Nombre de la aplicación Android
+
+Descripción breve de la aplicación, sus usuarios principales y las funciones que ofrece.
+
+**Tecnologías:** Kotlin, Android y PostgreSQL  
+**Estado:** En desarrollo  
+**Código fuente:** Repositorio privado
+
+<!-- [Ver capturas](ENLACE_DEL_PROYECTO) -->
+
+### Nombre del proyecto de Unity
+
+Descripción breve del videojuego o experiencia interactiva desarrollada.
+
+**Tecnologías:** Unity y C#  
+**Estado:** Finalizado  
+**Código fuente:** Repositorio privado
+
+<!-- [Ver demostración](ENLACE_DEL_PROYECTO) -->
+
 ## Estadísticas de GitHub
+
+Las estadísticas públicas no incluyen necesariamente toda la actividad realizada en repositorios privados.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDRK&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub de JuanDRK" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanDRK&show_icons=true&theme=radical&hide_border=true&locale=es" alt="Estadísticas de GitHub de Juan David">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDRK&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más utilizados por JuanDRK" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDRK&theme=radical&hide_border=true&locale=es" alt="Racha de contribuciones de JuanDRK" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDRK&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes más utilizados por Juan David">
 
 </div>
 
-## Objetivos actuales
+## Actualmente
 
-- Crear proyectos para fortalecer mi portafolio.
-- Mejorar mis conocimientos de programación.
-- Aprender buenas prácticas de desarrollo.
-- Colaborar en proyectos de código abierto.
+- Fortaleciendo mis conocimientos de desarrollo de software.
+- Creando proyectos para ampliar mi portafolio.
+- Mejorando mis prácticas de programación.
+- Aprendiendo nuevas herramientas y tecnologías.
+- Buscando oportunidades para adquirir experiencia profesional.
+
+## Contacto
+
+Puedes comunicarte conmigo mediante mi perfil de GitHub.
+
+[![GitHub](https://img.shields.io/badge/GitHub-JuanDRK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanDRK)
 
 ---
 
 <div align="center">
 
-### Gracias por visitar mi perfil
-
-Siempre estoy aprendiendo y construyendo algo nuevo.
+Gracias por visitar mi perfil.
 
 </div>
